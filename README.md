@@ -1,5 +1,5 @@
 # labpy1
-** Mencari bilangan terbesar dari 3 buah bilangan**
+**Mencari bilangan terbesar dari 3 buah bilangan**
 
 
 a = int(input("masukan bilangan a:"))
