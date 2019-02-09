@@ -24,7 +24,7 @@ print("nilai terbesar=", maks)
 
 
 
-•	Algoritma akan membandingkan 2 buah variabel terlebih dahulu,yaitu (a) dan (b). Nilai terbesar dari (a) dan (b) akan di simpan dalam variabel maks.
+- [x] Algoritma akan membandingkan 2 buah variabel terlebih dahulu,yaitu (a) dan (b). Nilai terbesar dari (a) dan (b) akan di simpan dalam variabel maks.
 
 •	Berikutnya variabel maks akan di bandingan dengan variabel (c). Jika nilai maks lebih kecil dari (c) ,maka nila maks diubah menjadi (c). 
 Dengan demikian nilai variabel maks adalah nilai terbesar dari (a), (b) dan (c).
